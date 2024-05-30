@@ -17,6 +17,7 @@ dependencies:
   js: ^0.6.7
   plugin_platform_interface: ^2.1.8
   vector_math: ^2.1.4
+  web: ^0.5.1
 
 dev_dependencies:
   flutter_lints: ^4.0.0
