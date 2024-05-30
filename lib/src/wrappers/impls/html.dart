@@ -1,4 +1,4 @@
-// Dummy implementation for artifacts defined in dart:html.
+// Dummy implementation for artifacts defined in dart:web.
 
 import 'dart:typed_data';
 

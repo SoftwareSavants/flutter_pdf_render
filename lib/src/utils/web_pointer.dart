@@ -1,5 +1,5 @@
 import 'dart:typed_data';
-import 'dart:html' as html;
+import 'dart:web' as html;
 import 'dart:js_util' as js_util;
 
 /// [Uint8] is not defined for Flutter Web. This is just a dummy definition.
